@@ -6,6 +6,6 @@ for testing out GitHub Desktop
 		<title>My first web page!</title>
 	</head>
 	<body>
-		Display the body here
+		New Display the body here
 	</body>
 </html>
