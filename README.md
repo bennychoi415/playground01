@@ -8,6 +8,8 @@ for testing out GitHub Desktop
 		</title>
 	</head>
 	<body>
-		New Display the body here
+		<h1>
+			This this the H1 text size
+		</h1>
 	</body>
 </html>
